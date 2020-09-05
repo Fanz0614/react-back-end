@@ -1,0 +1,19 @@
+{
+  "name": "react-back-end",
+  "version": "1.0.0",
+  "description": "v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fanz0614/react-back-end.git"
+  },
+  "author": "Fan Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fanz0614/react-back-end/issues"
+  },
+  "homepage": "https://github.com/Fanz0614/react-back-end#readme"
+}
