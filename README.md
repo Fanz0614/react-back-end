@@ -37,3 +37,13 @@ Screen shot
 v1
 
 ![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/e-learning%20v1.PNG)
+
+Update
+--------
+14/09/2020
+1. Redesign header and sidebar component
+2. Add dropdown menu and multi level menu
+3. Planning routing structure of this project (Router, Navrouter)
+4. Create a general title component for page title and webpage tag
+2. Add favicon to webpage tag
+
