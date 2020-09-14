@@ -32,4 +32,7 @@ What I'm going to do
 
 Screen shot
 -----------
+
+v1
+
 ![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/e-learning%20v1.PNG)
