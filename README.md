@@ -21,7 +21,7 @@ Run project
 git clone https://github.com/Fanz0614/react-back-end <br>
 cd E-library-frontend <br>
 npm install <br>
-npm start <br>
+npm run dev <br>
 
 What I do 
 ---------
