@@ -4,6 +4,10 @@ class Navtop extends React.Component{
     constructor(props){
         super(props);
     }
+    //logout
+    onLogout(){
+        
+    }
     render(){
         return(
             <div className="navbar navbar-default top-navbar">
@@ -30,7 +34,7 @@ class Navtop extends React.Component{
                         <li><a href="#"><i className="fa fa-gear fa-fw"></i> Settings</a>
                         </li>
                         <li className="divider"></li>
-                        <li><a href="#"><i className="fa fa-sign-out fa-fw"></i> Logout</a>
+                        <li><span onClick={()=>{this.onLogout()}}><i className="fa fa-sign-out fa-fw"></i> Logout</span>
                         </li>
                     </ul>
                     
