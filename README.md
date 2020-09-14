@@ -46,4 +46,4 @@ Update
 3. Planning routing structure of this project (Router, Navrouter)
 4. Create a general title component for page title and webpage tag
 2. Add favicon to webpage tag
-
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/v2.PNG)
