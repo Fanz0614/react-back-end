@@ -11,19 +11,19 @@ class Navside extends React.Component{
                         <NavLink exact activeClassName="active-menu" to="/"><i className="fa fa-dashboard"></i> Dashboard</NavLink>
                     </li>
                     <li className='active'>
-                        <Link to='/course'><i className="fa fa-sitemap"></i> Course<span className="fa arrow"></span></Link>
+                        <Link to='/sales'><i className="fa fa-shopping-cart"></i> Sales<span className="fa arrow"></span></Link>
                         <ul className="nav nav-second-level collapse in">
                             <li>
-                                <NavLink activeClassName='active-menu' to='/course'>Course management</NavLink>
+                                <NavLink activeClassName='active-menu' to='/sales'>Sale management</NavLink>
                             </li>
                             <li>
-                                <NavLink activeClassName='active-menu' to='/course-coursemap'>Course map</NavLink>
+                                <NavLink activeClassName='active-menu' to='/sales-map'>Course map</NavLink>
                             </li>
                             
                         </ul>
                     </li>
                     <li className='active'>
-                        <Link to='/order'><i className="fa fa-sitemap"></i> Order<span className="fa arrow"></span></Link>
+                        <Link to='/order'><i className="fa fa-bar-chart-o"></i> Order<span className="fa arrow"></span></Link>
                         <ul className="nav nav-second-level collapse in">
                             <li>
                                 <NavLink activeClassName='active-menu'  to='/order-management'>Order management</NavLink>
@@ -33,7 +33,7 @@ class Navside extends React.Component{
                         </ul>
                     </li>
                     <li className='active'>
-                        <Link to='/user'><i className="fa fa-sitemap"></i> User<span className="fa arrow"></span></Link>
+                        <Link to='/user'><i className="fa fa-users"></i> User<span className="fa arrow"></span></Link>
                         <ul className="nav nav-second-level collapse in">
                             <li>
                                 <NavLink activeClassName='active-menu'to='/user-management'>User management</NavLink>
