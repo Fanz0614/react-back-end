@@ -1,7 +1,7 @@
 import React from 'react';
 class PageTitle extends React.Component{
     componentWillMount(){
-        document.title=this.props.title+'- E-Learning';
+        document.title=this.props.title+'- Happy Mall';
     }
     render(){
         return(

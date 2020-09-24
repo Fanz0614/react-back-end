@@ -1,0 +1,42 @@
+.first{
+    color:green;
+    background:white;
+    padding:10px 0;
+    height:160px;
+    text-align:center;
+    transition:all .3s;
+    &:hover{
+        color:#555; 
+        transform: scale(1.08);
+    }
+    
+    
+}
+.page-wrapper{
+    background:#E5EBF2;
+    
+}
+.second{
+    color:#4CB1CF;
+    background:white;
+    padding:10px 0;
+    height:160px;
+    text-align:center;
+    transition:all .3s;
+    &:hover{
+        color:#555; 
+        transform: scale(1.08);
+    }
+}
+.third{
+    color:#f0ad4e;
+    background:white;
+    padding:10px 0;
+    height:160px;
+    text-align:center;
+    transition:all .3s;
+    &:hover{
+        color:#555; 
+        transform: scale(1.08);
+    }
+}
