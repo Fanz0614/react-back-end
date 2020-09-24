@@ -47,3 +47,16 @@ Update
 4. Create a general title component for page title and webpage tag
 2. Add favicon to webpage tag
 ![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/v2.PNG)
+
+Update
+------
+24/09/2020
+1. Login
+2. Logout
+3. Home page dashboard
+4. Userlist
+5. 404 page
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/v3-login.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/v3-dashboard.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/Userlist.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/404.PNG)
